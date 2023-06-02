@@ -1,0 +1,68 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.ShowList {
+  text-align: center;
+}
+
+.show-list {
+  list-style: none;
+  padding: 0;
+}
+
+.show-list li {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.show-list h3 {
+  margin-top: 0;
+}
+
+.show-list p {
+  margin-bottom: 10px;
+}
+
+.show-list button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.show-list button:active {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.show-summary h2 {
+  margin-top: 0;
+}
+
+.show-summary h3 {
+  margin-top: 0;
+}
+
+.show-summary p {
+  margin-bottom: 10px;
+}
+
+.ShowDetail {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 20px;
+}
